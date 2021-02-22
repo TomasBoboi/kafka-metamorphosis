@@ -1,2 +1,1 @@
-# kafka-metamorphosis
- Metamorphosis - F. Kafka
+# The Metamorphosis - Franz Kafka
